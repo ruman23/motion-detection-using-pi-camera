@@ -13,7 +13,6 @@ For detecting the motion it analyzes the live videos using the OpenCV. Moreover,
 - Raspberry PI
 - PI Camera
 - Telegram
-- PIR Motion Sensor
 - Python
 
 ## Installation
